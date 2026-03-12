@@ -134,6 +134,10 @@ The system successfully:
 • allows playback using FFplay
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](diagrams/architecture.png)
+
 
 # Future Improvements
 
