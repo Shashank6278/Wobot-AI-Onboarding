@@ -100,6 +100,11 @@ ffplay -rtsp_transport tcp rtsp://localhost:8554/output
 
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](diagrams/architecture.png)
+
+
 
 # Docker Setup
 
@@ -134,10 +139,6 @@ The system successfully:
 • allows playback using FFplay
 
 ---
-## Architecture Diagram
-
-![Architecture Diagram](diagrams/architecture.png)
-
 
 # Future Improvements
 
